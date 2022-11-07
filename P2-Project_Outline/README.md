@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+In this project, I want to help create an online discussion board in the form of posted messages where like-minded music lovers of all genre can get together to ask and answer questions about their favorite kinds of music and discuss topics of mutual interest. This forum will hopefully create a close social community of individuals with the aim to encourage constructive discussion as well as to gather data-driven insights.
 ### Features
 Include Features here
 ### Technologies
-Include Technologies here
+*Java
+*SpringBoot
+*MySQL
+*HTML
+*CSS
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/PWBCFuf8/music-forum
