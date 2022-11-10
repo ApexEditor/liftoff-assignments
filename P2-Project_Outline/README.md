@@ -12,9 +12,17 @@ In this project, I want to help create an online discussion board in the form of
 Include Features here
 ### Technologies
 *Java
+
+
 *SpringBoot
+
+
 *MySQL
+
+
 *HTML
+
+
 *CSS
 ### What I'll Have to Learn
 Include what you will need to learn here
