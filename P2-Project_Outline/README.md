@@ -9,7 +9,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 In this project, I want to help create an online discussion board in the form of posted messages where like-minded music lovers of all genre can get together to ask and answer questions about their favorite kinds of music and discuss topics of mutual interest. This forum will hopefully create a close social community of individuals with the aim to encourage constructive discussion as well as to gather data-driven insights.
 ### Features
-Include Features here
+* Landing page - a function for potential users to navigate through the application.
+
+* Registration - a form created in order for users to create personal accounts for the application.
+
+* Login - Once a user completes the registration form they will be able to sign in and out accordingly.
+
 ### Technologies
 *Java
 
